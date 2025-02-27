@@ -2,7 +2,7 @@ import * as firebase from 'firebase';
 import 'firebase/firestore'
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBnLUHidIafVYqJ4nwPGn_uK5lLriGokwE",
+    apiKey: ",
     authDomain: "react-quick-food.firebaseapp.com",
     databaseURL: "https://react-quick-food.firebaseio.com",
     projectId: "react-quick-food",
